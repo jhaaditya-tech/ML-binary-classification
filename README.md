@@ -32,22 +32,6 @@ The dataset is split into training (11,314 samples) and test data.
   - pandas
   - numpy
 
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/binary-text-classifier.git
-    cd binary-text-classifier
-    ```
-
-2. Install required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Open the Jupyter Notebook:
-    ```bash
-    jupyter notebook Homework3.ipynb
-    ```
 
 ## Usage
 1. Run all cells in `Homework3.ipynb` to:
